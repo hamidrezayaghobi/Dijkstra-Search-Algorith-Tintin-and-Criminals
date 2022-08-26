@@ -22,7 +22,7 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
 
 
 ### Example of Input
-1. 
+
     Input       output
     1           Poor Tintin
     6 7
@@ -38,7 +38,7 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
     2
     2 4
     1 6
-2. 
+
     Input       output
     1           5
     6 7         4
