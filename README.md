@@ -11,8 +11,18 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
 5. Cities where criminals are located in ([a1, a2, ... , aT])
 6. Start and End (S, G)
 
+## Output:
+1. For each k test, 
+    - if he can go from S to G without visiting criminal:
+        1. time of his path
+        2. number of cities in his path
+        3. his path
+    - if he cant:
+        1. print "Poor Tintin"
+
+
 ### Example of Input
-    **Input**   **output**
+    Input       output
     1           Poor Tintin
     6 7
     1 2 2
@@ -26,5 +36,21 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
     5
     2
     2 4
+    1 6
+
+    Input       output
+    1           5
+    6 7         4
+    1 2 2       1 2 3 6
+    2 3 2
+    2 4 3
+    2 5 4
+    3 4 2
+    4 5 2
+    3 6 1
+    1
+    5
+    1
+    2
     1 6
 
