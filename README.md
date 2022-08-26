@@ -13,12 +13,12 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
 
 ## Output:
 1. For each k test, 
-    - if he can go from S to G without visiting criminal:
-        1. time of his path
-        2. number of cities in his path
-        3. his path
-    - if he cant:
-        1. print "Poor Tintin"
+    - If he can go from S to G without visiting criminal:
+        1. Time of his path
+        2. Number of cities in his path
+        3. His path
+    - else:
+        1. Print "Poor Tintin"
 
 ## Constraint
 1. 1 <= K <= 5
