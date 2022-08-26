@@ -21,7 +21,7 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
         1. print "Poor Tintin"
 
 
-### Example
+## Example
 1. 
  ```
     Input       output
@@ -58,3 +58,10 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
     2
     1 6
 ```
+
+## Constraint
+1. 1 <= K <= 5
+2. 1 <= N <= 5 * 10^4
+3. 1 <= M <= min(N * (N- 1) / 2, 10^5)
+4. 1 <= T, C, u, v, s, g, a_i, b_i <= N
+5. 1 <= d <= 10^5
