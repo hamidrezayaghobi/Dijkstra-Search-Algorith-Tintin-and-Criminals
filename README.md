@@ -14,22 +14,18 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
 ### Example of Input
 | Input | output |
 |  :--------  | :------: |
-|  1 | Poor Tintin   |
-|  6 7| |
-| 1 2 2|    |
-|  2 3 2|   |
-|1|   |
-|6 7|   |
-|1 2 2| |
-|2 3 2| |
-|2 4 3| |
-|2 5 4| |
-|3 4 2| |
-|4 5 2| |
-|3 6 1| |
-|1| |
-|5| |
-|2| |
-|2 4|   |
-|1 6|   |
+|  1
+6 7
+1 2 2
+2 3 2
+2 4 3
+2 5 4
+3 4 2
+4 5 2
+3 6 1
+1
+5
+2
+2 4
+1 6 | Poor Tintin|
 
