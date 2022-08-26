@@ -21,7 +21,8 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
         1. print "Poor Tintin"
 
 
-### Example of Input
+### Example
+1. one
 
     Input       output
     1           Poor Tintin
@@ -38,6 +39,7 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
     2
     2 4
     1 6
+2. tow 
 
     Input       output
     1           5
