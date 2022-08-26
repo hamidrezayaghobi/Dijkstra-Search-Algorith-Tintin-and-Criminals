@@ -39,9 +39,9 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
     2
     2 4
     1 6
-    ```
-2. tow 
- 
+```
+2.  
+```
     Input       output
     1           5
     6 7         4
@@ -57,4 +57,4 @@ Consider N cities and M roads. Tintin is in S city and wants to go to G city. Th
     1
     2
     1 6
-
+```
