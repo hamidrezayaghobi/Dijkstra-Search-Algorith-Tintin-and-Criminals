@@ -1,19 +1,19 @@
-# Dijkstra Search Algorithm: Tintin and criminals
+# Dijkstra Search Algorithm: Tintin and Criminals
 
 ## Problem:
-Consider N cities and M roads. Tintin is in S city and wants to go to G city. There are T criminals in T cities who wish to catch Tintin. There are C cars that were randomly parked in C cities. These cars help criminals to pass the road 2X faster. Find the fastest way  which Tintin can go from S to G and if he cant, print "Poor Tintin".
+Consider N cities and M roads. Tintin is in S city and wants to go to G city. There are T criminals in T cities who wish to catch Tintin. There are C cars that were randomly parked in C cities. These cars help criminals to pass the road 2X faster. Find the fastest way  in which Tintin can go from S to G and if he can, print "Poor Tintin".
 
 ## Input:
 1. Number of tests (K)
 2. Number of cities and roads(N, M)
-3. In the next M line, roads from (u) to (v) with distnace (d)
+3. In the next M line, roads from (u) to (v) with distance (d)
 4. Number of Criminals (T)
 5. Cities where criminals are located in ([a1, a2, ... , aT])
 6. Start and End (S, G)
 
 ## Output:
 1. For each k test, 
-    - If he can go from S to G without visiting criminal:
+    - If he can go from S to G without visiting criminals:
         1. Time of his path
         2. Number of cities in his path
         3. His path
